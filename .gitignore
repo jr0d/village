@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.egg-info
+.idea/
+.coverage
+build/
+dist/
+development.ini
+production.ini
