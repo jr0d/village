@@ -14,7 +14,7 @@ requires = [
 
 setup(name='village',
       version='0.0',
-      description='village',
+      description='village - nothing to see here',
       long_description=README + '\n\n' + CHANGES,
       classifiers=[
         "Programming Language :: Python",
